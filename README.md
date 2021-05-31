@@ -7,7 +7,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
    `git clone https://github.com/aysegulacarr/kodluyoruzilkrepo.git`
 
-<img src="deneme.png" width="200" height="350" />
+<img src="deneme.png"/>
 
 # Usage
 
