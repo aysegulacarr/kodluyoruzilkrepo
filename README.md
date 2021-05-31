@@ -7,12 +7,16 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
    `git clone https://github.com/aysegulacarr/kodluyoruzilkrepo.git`
 
+<img src="deneme.png" width="200" height="350" />
+
 # Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
+
    `cd kodluyoruzilkrepo`
+   
    `code .` 
 
 # Contributing
